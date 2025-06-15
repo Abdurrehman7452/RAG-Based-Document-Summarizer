@@ -19,11 +19,12 @@ Upload a **PDF**, **TXT**, or **Markdown** file, and the system will retrieve th
 
 ## 📸 Screenshots
 
-### 🔼 Upload a document
-### 📋 Summary Output
-### 📂 Retrieved Chunks
-![![doc1](https://github.com/user-attachments/assets/8c033ce4-993d-435f-afcc-ab6739ac15de)
+#### 🔼 Upload a document
+#### 📋 Summary Output
+#### 📂 Retrieved Chunks
+![doc1](https://github.com/user-attachments/assets/8c033ce4-993d-435f-afcc-ab6739ac15de)
 ![doc2](https://github.com/user-attachments/assets/a2a36dd7-5dfc-44f4-aa80-3407ecd16cff)
+
 
 
 
